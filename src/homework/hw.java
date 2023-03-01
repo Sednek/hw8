@@ -55,6 +55,7 @@ public class hw {
         System.out.printf("Средняя сумма трат за месяц составила %.2f рублей", median);
 
         System.out.println(" ");
+        System.out.println(" ");
     }
     public static void task4(){
         System.out.println("Task 4: ");
